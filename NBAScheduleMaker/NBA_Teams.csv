@@ -1,0 +1,31 @@
+Team,City,State,Capacity,Lat,Long,Conference,GeoName,Teamname,Abbreviation,
+Boston Celtics,Boston,MA,TD Garden,42.366303,71.062228,Atlantic,Eastern,Boston,Celtics,BOS
+Brooklyn Nets,New York City,NY,Barclays Center,40.68265,73.974689,Atlantic,Eastern,Brooklyn,Nets,BKN
+New York Knicks,New York City,NY,Madison Square Garden,40.750556,73.993611,Atlantic,Eastern,New York,Knicks,NYK
+Philadelphia 76ers,Philadelphia,PA,Wells Fargo Center,39.901111,75.171944,Atlantic,Eastern,Philadelphia,76ers,PHI
+Toronto Raptors,Toronto,ON,Air Canada Centre,43.643333,79.379167,Atlantic,Eastern,Toronto,Raptors,TOR
+Chicago Bulls,Chicago,IL,United Center,41.880556,87.674167,Central,Eastern,Chicago,Bulls,CHI
+Cleveland Cavaliers,Cleveland,OH,Quicken Loans Arena,41.496389,81.688056,Central,Eastern,Cleveland,Cavaliers,CLE
+Detroit Pistons,Detroit,MI,Little Caesars Arena,42.696944,83.245556,Central,Eastern,Detroit,Pistons,DET
+Indiana Pacers,Indianapolis,IN,Bankers Life Fieldhouse,39.763889,86.155556,Central,Eastern,Indiana,Pacers,IND
+Milwaukee Bucks,Milwaukee,WI,BMO Harris Bradley Center,43.043611,87.916944,Central,Eastern,Milwaukee,Bucks,MIL
+Atlanta Hawks,Atlanta,GA,Philips Arena,33.757222,84.396389,Southeast,Eastern,Atlanta,Hawks,ATL
+Charlotte Hornets,Charlotte,NC,Spectrum Center,35.225,80.839167,Southeast,Eastern,Charlotte,Hornets,CHA
+Miami Heat,Miami,FL,American Airlines Arena,25.781389,80.188056,Southeast,Eastern,Miami,Heat,MIA
+Orlando Magic,Orlando,FL,Amway Center,28.539167,81.383611,Southeast,Eastern,Orlando,Magic,ORL
+Washington Wizards,Washington, D.C.,Verizon Center,38.898056,77.020833,Southeast,Eastern,Washington,Wizards,WAS
+Denver Nuggets,Denver,CO,Pepsi Center,39.748611,105.0075,Northwest,Western,Denver,Nuggets,DEN
+Minnesota Timberwolves,Minneapolis,MN,Target Center,44.979444,93.276111,Northwest,Western,Minnesota,Timberwolves,MIN
+Oklahoma City Thunder,Oklahoma City,OK,Chesapeake Energy Arena,35.463333,97.515,Northwest,Western,Oklahoma City,Thunder,OKC
+Portland Trail Blazers,Portland,OR,Moda Center,45.531667,122.666667,Northwest,Western,Portland ,Trail Blazers,POR
+Utah Jazz,Salt Lake City,UT,Vivint Smart Home Arena,40.768333,111.901111,Northwest,Western,Utah,Jazz,UTA
+Golden State Warriors,Oakland,CA,Oracle Arena,37.750278,122.203056,Pacific,Western,Golden State,Warriors,GSW
+Los Angeles Clippers,Los Angeles,CA,Staples Center,34.043056,118.267222,Pacific,Western,Los Angeles,Clippers,LAC
+Los Angeles Lakers,Los Angeles,CA,Staples Center,34.043056,118.267222,Pacific,Western,Los Angeles,Lakers,LAL
+Phoenix Suns,Phoenix,AZ,Talking Stick Resort Arena,33.445833,112.071389,Pacific,Western,Phoenix,Suns,PHX
+Sacramento Kings,Sacramento,CA,Golden 1 Center,38.649167,121.518056,Pacific,Western,Sacramento,Kings,SAC
+Dallas Mavericks,Dallas,TX,American Airlines Center,32.790556,96.810278,Southwest,Western,Dallas,Mavericks,DAL
+Houston Rockets,Houston,TX,Toyota Center,29.750833,95.362222,Southwest,Western,Houston,Rockets,HOU
+Memphis Grizzlies,Memphis,TN,FedExForum,35.138333,90.050556,Southwest,Western,Memphis,Grizzlies,MEM
+New Orleans Pelicans,New Orleans,LA,Smoothie King Center,29.948889,90.081944,Southwest,Western,New Orleans,Pelicans,NOP
+San Antonio Spurs,San Antonio,TX,AT&T Center,29.426944,98.4375,Southwest,Western,San Antonio,Spurs,SAS

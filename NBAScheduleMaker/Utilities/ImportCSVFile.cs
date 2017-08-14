@@ -17,7 +17,7 @@ namespace NBAScheduleMaker.Utilities
 			List<Team> teams = new List<Team>();
 
 			string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-			string fullPath = Path.Combine(desktopPath, "NBA_Teams.csv");
+			string fullPath = "NBA_Teams.csv";
 			using (var reader = new StreamReader(fullPath))
 			{
 				while (!reader.EndOfStream)

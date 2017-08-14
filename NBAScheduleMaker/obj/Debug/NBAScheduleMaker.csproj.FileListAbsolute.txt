@@ -4,3 +4,6 @@ c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBASche
 c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\bin\Debug\NBAScheduleMaker.pdb
 c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.exe
 c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.pdb
+C:\Users\jdkinkle\Documents\Visual Studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\bin\Debug\NBA_Teams.csv
+C:\Users\jdkinkle\Documents\Visual Studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.Properties.Resources.resources
+C:\Users\jdkinkle\Documents\Visual Studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.csproj.GenerateResource.Cache
