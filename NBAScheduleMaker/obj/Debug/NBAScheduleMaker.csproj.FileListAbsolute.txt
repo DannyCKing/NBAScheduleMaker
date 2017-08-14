@@ -1,0 +1,6 @@
+c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\bin\Debug\NBAScheduleMaker.exe.config
+c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.csprojResolveAssemblyReference.cache
+c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\bin\Debug\NBAScheduleMaker.exe
+c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\bin\Debug\NBAScheduleMaker.pdb
+c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.exe
+c:\users\jdkinkle\documents\visual studio 2015\Projects\NBAScheduleMaker\NBAScheduleMaker\obj\Debug\NBAScheduleMaker.pdb
